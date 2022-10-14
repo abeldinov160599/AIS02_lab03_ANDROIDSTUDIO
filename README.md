@@ -21,3 +21,5 @@ public void onInfo(View v) {
         
         startActivity(intent);
     }
+
+Преподаватель: https://github.com/proffix4
