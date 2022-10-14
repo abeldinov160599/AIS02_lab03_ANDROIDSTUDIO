@@ -1,0 +1,37 @@
+<resources>
+    <!-- Название программы -->
+    <string name="app_name">AIS02_lab03</string>
+
+    <!-- Текстовые константы -->
+
+    <string name="MAN">Мужской</string>
+    <string name="WOMAN">Женский</string>
+    <string name="name">Представтесь, как вас зовут?</string>
+    <string name="FIO">Введите сюда ФИО</string>
+    <string name="label_gender">Выберите ваш пол:</string>
+    <string name="man">Мужской</string>
+    <string name="life">Довольны ли вы своей жизнью в целом?</string>
+    <string name="temperament">Ваш темперамент:</string>
+    <string name="ИТОГО">ИТОГО</string>
+    <string name="answer1">Да, меня все устраивает!</string>
+    <string name="answer2">Есть недостатки, но это не мешает мне быть счастливым!</string>
+    <string name="answer3">50 на 50</string>
+    <string name="answer4">Не очень доволен. В моей жизни больше минусов, чем плюсов.</string>
+    <string name="answer5">Нет, меня полностью не устраивает моя жизнь!</string>
+    <string name="Сводные_данные">Сводные данные:</string>
+    <string name="Назад">Назад</string>
+    <string name="Выход">Выход</string>
+    <string name="you">Вы:</string>
+    <string name="data_gender">Ваш пол:</string>
+    <string name="life_result">Довольны ли вы своей жизнью в целом? \nОтвет:</string>
+    <string name="temperament_result">Ваш темперамент:</string>
+
+    <!-- Массив строк -->
+    <string-array name="temperament_types">
+        <item>Сангвиник</item>
+        <item>Холерик</item>
+        <item>Флегматик</item>
+        <item>Меланхолик</item>
+    </string-array>
+
+</resources>
